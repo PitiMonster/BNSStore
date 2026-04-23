@@ -73,5 +73,10 @@
       }
     }
   ],
-  "wishlist": []
+  "wishlist": [
+    {
+      "email": "piotr@blockchain-collab.com",
+      "domain": "pitimonster.btc"
+    }
+  ]
 }
