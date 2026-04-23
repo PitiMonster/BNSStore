@@ -40,7 +40,21 @@
       "domains": {
         "id": 1,
         "expiry": "2027-04-23T17:54:57.506Z"
-      }
+      },
+      "contractId": "mock_nft_1776966897506",
+      "domain": "bitcoin.btc",
+      "listingUtxo": "mock_listing_1776966934032:0",
+      "recAddress": "tb1quasdy6gs0xm99u2pmnqxp276068dgfwpjc3v3e",
+      "bestBid": 0,
+      "orderId": "mock_listing_1776966934032",
+      "createdAt": "2026-04-23T17:55:34.872Z",
+      "bidCount": 0,
+      "supabaseListingId": 1,
+      "supabaseDomain": {
+        "id": 1,
+        "expiry": "2027-04-23T17:54:57.506Z"
+      },
+      "isPremium": false
     }
   ],
   "bids": [],
