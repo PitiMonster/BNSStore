@@ -69,7 +69,7 @@
       "status": 0,
       "listings": {
         "list_utxo": "mock_listing_1776966934032:0",
-        "name": "bitcoin.btc"
+        "name": "domain_mock_nft"
       }
     }
   ],
