@@ -55,6 +55,14 @@
       "domain": "vault.btc",
       "contract_id": "mock_nft_1777017485992",
       "expiry": "2027-04-24T07:58:05.992Z"
+    },
+    {
+      "id": 8,
+      "created_at": "2026-04-24T07:58:25.778Z",
+      "address": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "domain": "halving.btc",
+      "contract_id": "mock_nft_1777017505540",
+      "expiry": "2027-04-24T07:58:25.540Z"
     }
   ],
   "orders": [
@@ -147,6 +155,19 @@
       "type": "purchase",
       "domains": {
         "domain": "vault.btc"
+      }
+    },
+    {
+      "id": 8,
+      "created_at": "2026-04-24T07:58:25.778Z",
+      "address": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "transaction_id": "mock_tx_1777017505778",
+      "domain_id": 8,
+      "email": "mocked@email.com",
+      "status": "processing",
+      "type": "purchase",
+      "domains": {
+        "domain": "halving.btc"
       }
     }
   ],
