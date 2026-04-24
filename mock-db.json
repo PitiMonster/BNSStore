@@ -217,7 +217,21 @@
       "domains": {
         "id": 5,
         "expiry": "2027-04-24T07:46:57.163Z"
-      }
+      },
+      "contractId": "mock_nft_1777016817163",
+      "domain": "google.btc",
+      "listingUtxo": "mock_listing_1777016842165:0",
+      "recAddress": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "bestBid": 0,
+      "orderId": "mock_listing_1777016842165",
+      "createdAt": "2026-04-24T07:47:22.930Z",
+      "bidCount": 0,
+      "supabaseListingId": 4,
+      "supabaseDomain": {
+        "id": 5,
+        "expiry": "2027-04-24T07:46:57.163Z"
+      },
+      "isPremium": false
     }
   ],
   "bids": [
