@@ -47,6 +47,14 @@
       "domain": "satoshi.btc",
       "contract_id": "mock_nft_1777017472058",
       "expiry": "2027-04-24T07:57:52.058Z"
+    },
+    {
+      "id": 7,
+      "created_at": "2026-04-24T07:58:06.254Z",
+      "address": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "domain": "vault.btc",
+      "contract_id": "mock_nft_1777017485992",
+      "expiry": "2027-04-24T07:58:05.992Z"
     }
   ],
   "orders": [
@@ -126,6 +134,19 @@
       "type": "purchase",
       "domains": {
         "domain": "satoshi.btc"
+      }
+    },
+    {
+      "id": 7,
+      "created_at": "2026-04-24T07:58:06.254Z",
+      "address": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "transaction_id": "mock_tx_1777017486254",
+      "domain_id": 7,
+      "email": "mocked@email.com",
+      "status": "processing",
+      "type": "purchase",
+      "domains": {
+        "domain": "vault.btc"
       }
     }
   ],
