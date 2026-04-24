@@ -149,6 +149,23 @@
         "expiry": "2027-04-24T06:58:43.017Z"
       },
       "isPremium": false
+    },
+    {
+      "id": 3,
+      "created_at": "2026-04-24T07:02:59.531Z",
+      "contract_id": "mock_nft_1777014153667",
+      "list_utxo": "mock_listing_1777014178798:0",
+      "order_id": "mock_listing_1777014178798",
+      "price": 200000000,
+      "owner": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "name": "orobit.btc",
+      "best_bid": 0,
+      "bid_count": 0,
+      "status": 1,
+      "domains": {
+        "id": 4,
+        "expiry": "2027-04-24T07:02:33.667Z"
+      }
     }
   ],
   "bids": [
