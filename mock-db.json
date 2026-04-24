@@ -31,6 +31,14 @@
       "domain": "orobit.btc",
       "contract_id": "mock_nft_1777014153667",
       "expiry": "2027-04-24T07:02:33.667Z"
+    },
+    {
+      "id": 5,
+      "created_at": "2026-04-24T07:46:57.422Z",
+      "address": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "domain": "google.btc",
+      "contract_id": "mock_nft_1777016817163",
+      "expiry": "2027-04-24T07:46:57.163Z"
     }
   ],
   "orders": [
@@ -84,6 +92,19 @@
       "type": "purchase",
       "domains": {
         "domain": "orobit.btc"
+      }
+    },
+    {
+      "id": 5,
+      "created_at": "2026-04-24T07:46:57.422Z",
+      "address": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "transaction_id": "mock_tx_1777016817422",
+      "domain_id": 5,
+      "email": "mocked@email.com",
+      "status": "processing",
+      "type": "purchase",
+      "domains": {
+        "domain": "google.btc"
       }
     }
   ],
