@@ -15,6 +15,14 @@
       "domain": "piti.btc",
       "contract_id": "mock_nft_1777013548604",
       "expiry": "2027-04-24T06:52:28.604Z"
+    },
+    {
+      "id": 3,
+      "created_at": "2026-04-24T06:58:43.278Z",
+      "address": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "domain": "filip.btc",
+      "contract_id": "mock_nft_1777013923017",
+      "expiry": "2027-04-24T06:58:43.017Z"
     }
   ],
   "orders": [
@@ -42,6 +50,19 @@
       "type": "purchase",
       "domains": {
         "domain": "piti.btc"
+      }
+    },
+    {
+      "id": 3,
+      "created_at": "2026-04-24T06:58:43.278Z",
+      "address": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "transaction_id": "mock_tx_1777013923278",
+      "domain_id": 3,
+      "email": "mocked@email.com",
+      "status": "processing",
+      "type": "purchase",
+      "domains": {
+        "domain": "filip.btc"
       }
     }
   ],
