@@ -165,7 +165,21 @@
       "domains": {
         "id": 4,
         "expiry": "2027-04-24T07:02:33.667Z"
-      }
+      },
+      "contractId": "mock_nft_1777014153667",
+      "domain": "orobit.btc",
+      "listingUtxo": "mock_listing_1777014178798:0",
+      "recAddress": "tb1qgkcu4xtfk2jn469m0wcnx3hxe77e2djg9n39cn",
+      "bestBid": 0,
+      "orderId": "mock_listing_1777014178798",
+      "createdAt": "2026-04-24T07:02:59.531Z",
+      "bidCount": 0,
+      "supabaseListingId": 3,
+      "supabaseDomain": {
+        "id": 4,
+        "expiry": "2027-04-24T07:02:33.667Z"
+      },
+      "isPremium": false
     }
   ],
   "bids": [
